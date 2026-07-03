@@ -1,0 +1,2 @@
+# Plugin data is managed by lazy.nvim outside this repo (~/.local/share/nvim).
+# lazy-lock.json IS committed for reproducible plugin versions.
